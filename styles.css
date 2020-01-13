@@ -1,0 +1,31 @@
+
+/* color name */
+ h5 { 
+ 	color: 	#F08080;
+ } 
+ 
+ /* hex code */ 
+ h2 { 
+ 	color: #ee3e80;
+ } 
+ 
+ body { 
+ 	background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fhd-wallpapers-flowers&psig=AOvVaw1e1ynze97G_8Sf-vIP_G3Y&ust=1574203501807000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDd0prr9OUCFQAAAAAdAAAAABAD");
+  background-repeat: no-repeat; 
+  text-indent: -9999px;
+} 
+
+  .credits { 
+  	text-indent: 20px;
+  }
+
+  .p { 
+  	min-width: 450px; 
+  	max-width: 650px; 
+  	text-align: left; 
+  	padding: 5px; 
+  	margin: 0px;
+
+  	 }
+
+  	
